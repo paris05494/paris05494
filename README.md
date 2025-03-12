@@ -1,5 +1,6 @@
 # Hi there 👀
 ## My name is Paris Rongdech
+I am currently a third-year student at King Mongkut’s Institute of Technology Ladkrabang, pursuing dual degrees in IoT Systems & Information Engineering and Industrial Physics.
 
 <div id="header" align="center">
   <img src="https://github.com/paris05494/My-image/blob/main/oia-uia.gif" width="100"/>
@@ -13,17 +14,5 @@
   <img src="https://komarev.com/ghpvc/?username=paris05494&style=flat-square&color=blue" alt=""/>
 </div>
 
-<!--
-**paris05494/paris05494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me : 
+- 📫 How to reach me: paris.rd2546@gmail.com
