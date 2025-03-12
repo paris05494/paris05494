@@ -1,6 +1,4 @@
 # Hi there 👀
-## My name is Paris Rongdech
-I am currently a third-year student at King Mongkut’s Institute of Technology Ladkrabang, pursuing dual degrees in IoT Systems & Information Engineering and Industrial Physics.
 
 <div id="header" align="center">
   <img src="https://github.com/paris05494/My-image/blob/main/oia-uia.gif" width="100"/>
@@ -13,6 +11,9 @@ I am currently a third-year student at King Mongkut’s Institute of Technology 
   <br>
   <img src="https://komarev.com/ghpvc/?username=paris05494&style=flat-square&color=blue" alt=""/>
 </div>
+
+## My name is Paris Rongdech
+I am currently a third-year student at King Mongkut’s Institute of Technology Ladkrabang, pursuing dual degrees in IoT Systems & Information Engineering and Industrial Physics.
 
 ## About Me : 
 - 📫 How to reach me: paris.rd2546@gmail.com
