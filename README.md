@@ -1,4 +1,5 @@
-## Hi there 👀
+# Hi there 👀
+## My name is Paris Rongdech
 
 <div id="header" align="center">
   <img src="https://github.com/paris05494/My-image/blob/main/oia-uia.gif" width="100"/>
